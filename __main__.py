@@ -2,7 +2,7 @@ import time
 import tkinter as tk
 import pyautogui
 import threading
-
+# 定義class框架
 class MouseClickerApp:
     def __init__(self, root):
         self.root = root
@@ -69,11 +69,11 @@ class MouseClickerApp:
         stop_button = tk.Button(self.root, text="停止點擊", command=self.stop_clicking)
         stop_button.grid(row=9, column=0, columnspan=2, padx=5, pady=5)
 
-        # 滑鼠座標显示Label
+        # 滑鼠座標Label
         self.mouse_position_label = tk.Label(self.root, text="滑鼠座標: ")
         self.mouse_position_label.grid(row=10, column=0, columnspan=2, padx=5, pady=5)
 
-        # 开始实时滑鼠座標检测按钮
+        # 偵測滑鼠位置
         detect_button = tk.Button(self.root, text="開始偵測", command=self.toggle_detection)
         detect_button.grid(row=11, column=0, columnspan=2, padx=5, pady=5)
 
