@@ -1,7 +1,7 @@
 # Automated-click-script-plug-in
 # 簡介
 這是一個自動化腳本點擊器，可以用於外掛程式以及用於搶票系統.
-# pyinstaller
+# 程式
 ![image](https://github.com/chris911024/Automated-click-script-plug-in/assets/67829896/0c44677a-5b55-4df2-81df-1e9b8dd3b9d2)
 
 # demo
