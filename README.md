@@ -10,8 +10,6 @@
 # file
 雲端硬碟：
 https://drive.google.com/file/d/1oSt5zWu7JVrW-4M9k4TaSZ2RFA2jcNT7/view?usp=share_link
-github：
-https://github.com/chris911024/Automated-click-script-plug-in
 
 不排斥的話可以用看看這個腳本，歡迎大神們pr改進
 
