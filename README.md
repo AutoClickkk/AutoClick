@@ -1,4 +1,8 @@
 # Automated-click-script-plug-in
+# 技術層
+1. Thread
+2. ＧＵＩ介面 - ＴＫ library
+3. pyautogui - 自動化腳本library
 # 簡介
 這是一個自動化腳本點擊器，可以用於外掛程式以及用於搶票系統.
 # 程式
