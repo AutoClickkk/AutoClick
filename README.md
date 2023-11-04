@@ -1,4 +1,9 @@
 # Automated-click-script-plug-in
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/chris911024/Automated-click-script-plug-in?style=flat&label=Stars)](https://github.com/chris911024/Automated-click-script-plug-in/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/chris911024/Automated-click-script-plug-in?style=flat&label=Forks)](https://github.com/chris911024/Automated-click-script-plug-in/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/chris911024/Automated-click-script-plug-in?style=flat&label=Issues)](https://github.com/chris911024/Automated-click-script-plug-in/issues)
 # 技術層
 1. Thread
 2. ＧＵＩ介面 - ＴＫ library
