@@ -1,4 +1,4 @@
-# Automated-click-script-plug-in
+# AutoClick
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/chris911024/Automated-click-script-plug-in?style=flat&label=Stars)](https://github.com/chris911024/Automated-click-script-plug-in/stargazers)
